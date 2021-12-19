@@ -1,2 +1,3 @@
-# learning-resources
-Learning resources available on the internet
+# Learning Resources
+
+A (not-exhaustive) compendium of resources for learning stuff online
